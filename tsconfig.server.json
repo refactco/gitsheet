@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "es5",
+    "strict": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "strictPropertyInitialization": false,
+    "sourceMap": false,
+    "declaration": false,
+    "declarationMap": false,
+    "esModuleInterop": true,
+    "noResolve": false
+  },
+  "include": ["example", "src", "lib"],
+  "exclude": ["node_modules"]
+}
