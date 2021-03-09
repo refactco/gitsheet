@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "esnext",
+    "strict": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "strictPropertyInitialization": false,
+    "sourceMap": false,
+    "declaration": false,
+    "declarationMap": false,
+    "esModuleInterop": true,
+    "noResolve": false
+  },
+  "exclude": ["node_modules"]
+}
